@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week2</string>
+    <string name="name">Nama</string>
+    <string name="login">Masuk</string>
+    <string name="cancel">Batal</string>
+</resources>

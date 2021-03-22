@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Week 5 - ListView dan GridView</string>
+
+    <string-array name="club_name">
+        <item>Juventus</item>
+        <item>Ac Milan</item>
+        <item>Manchester United</item>
+        <item>Arsenal</item>
+        <item>Bayern Munchen</item>
+        <item>Chelsea</item>
+        <item>Barcelona</item>
+    </string-array>
+
+    <string-array name="club_image">
+        <item>@drawable/juve</item>
+        <item>@drawable/milan</item>
+        <item>@drawable/city</item>
+        <item>@drawable/arsenal</item>
+        <item>@drawable/bayern</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/barca</item>
+    </string-array>
+
+    <string-array name="club_info">
+        <item>Klub Besar di Italia.</item>
+        <item>Klub tersukses Italia di Kancah Eropa.</item>
+        <item>Klub besar di Inggris.</item>
+        <item>Klub bersejarah Inggris.</item>
+        <item>Klub tersukses di Jerman.</item>
+        <item>Klub yang pernah dilatih Mourinho</item>
+        <item>Klub pemain terbaik dunia, Lionel Messi.</item>
+    </string-array>
+</resources>
